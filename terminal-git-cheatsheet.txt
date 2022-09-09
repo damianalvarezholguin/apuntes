@@ -66,5 +66,5 @@ git merge (nombreRama)      | Trae los cambios de nombreRama a la rama actual
 
 --------------------  Subir el código  ----------------------
 git remote add origin https://github.com/damianalvarezholguin/apuntes.git | "Remote" indica que vamos a subir nuestro código a un servidor remoto y "add origin" define de dónde vamos a obtener nuestro código y a dónde vamos a enviarlo.
-git push -u origin main     | Creamos en el repositorio la rama a la que vamos a subir nuestro código
+git push -u origin master   | Creamos en el repositorio la rama a la que vamos a subir nuestro código
 git push                    | Subimos el código
